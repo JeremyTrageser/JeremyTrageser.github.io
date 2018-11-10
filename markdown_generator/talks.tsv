@@ -1,5 +1,5 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Modeling Anisotropy in Two-Dimensional Peridynamic Models	Poster	SantaFeSept2018	Meshfree and Particle Methods: Applications and Theory	9/10/18	"Santa Fe, NM"		
+Anisotropy in Two-Dimensional Linear Elastic Bond-Based Peridynamics	Talk	ChicagoJune2018	18th U.S. National Congress for Theoretical and Applied Mechanics	6/7/18	"Chicago, IL"		
+Anisotropic Bond-Based Peridynamic Models	Talk	AusticJan2018	USACM Thematic Conference on Nonlocal Methods in Fracture	1/15/18	"Austin, TX"		
+Introducing Anisotropy into Linear Elastic Peridynamic Models	Poster	SantaFeDec2018	"Modeling, Analysis, and Numerics for Nonlocal Applications"	12/13/17	"Santa Fe, NM"		
