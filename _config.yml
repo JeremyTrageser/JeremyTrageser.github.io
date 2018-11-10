@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jeremy Trageser"
   avatar           : "profile.png"
   bio              : "I am a postdoctoral research scientist in the Computational and Applied Mathematics Group at Oak Ridge National Laboratory"
   location         : "Knoxville, TN"
@@ -251,7 +251,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Eastern # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
