@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2014-12-01-FiniteTimeBlowupinNonlinearSuspensionBridgeModels
 date: 2014-12-01
 venue: 'Journal of Differential Equations'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://doi.org/10.1016/j.jde.2014.07.017'
+citation: 'P. Radu, D. Toundykov, and J. Trageser. &quot;Finite time blow-up in nonlinear suspension bridge models.&quot; <i>Journal of Differential Equations</i>. Volume 257, Issue 11, 2014, Pages 4030-4063.'
 ---
 
-<a href='http://academicpages.github.io/files/paper1.pdf'>Download paper here</a>
+<a href='https://doi.org/10.1016/j.jde.2014.07.017'>Download paper here</a>
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: P. Radu, D. Toundykov, and J. Trageser. "Finite time blow-up in nonlinear suspension bridge models." <i>Journal of Differential Equations</i>. Volume 257, Issue 11, 2014, Pages 4030-4063.
