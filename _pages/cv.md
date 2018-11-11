@@ -46,7 +46,18 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Workshops and Addtional Training
+=====
+* Hausdorff Trimester Program on Multiscale Problems: Algorithms, Numerical Analysis and Computation. Bonn, Germany. March 28 - April 21, 2017.
+* Mathematical Sciences Research Institute Introductory Workshop: Randomness and Long Term Dynamics in Nonlinear Evolution Differential Equations. MSRI, Berkeley. August 24-28, 2015.
+* Mathematics Research Community on Differential Equations, Probability, and Sea Ice. Snow Bird, Utah. June 21-27, 2015.
+* Doc-Course: Applied Mathematics and Optimization. Basque Center for Applied Mathematics and the University of Sevilla. March 2 - May 29, 2015.
+* Oberwolfach Seminar: Analysis of Compressible Navier Stokes Equations and Related Topics. Mathematical Research Institute of Oberwolfach. November 23-29, 2014.
+* Mathematical Sciences Research Institute Workshop: Dispersive Partial Differential Equations. MSRI, Berkeley. June 16-27, 2014.
+* International School on Recent Advances in PDEs and Applications. University of Milan. June 17-21, 2013.
+* International Workshop "Advances in Nonlinear Science". University of Pittsburgh. March 14-16, 2013.
+
 Talks
 ======
   <ul>{% for post in site.talks %}
