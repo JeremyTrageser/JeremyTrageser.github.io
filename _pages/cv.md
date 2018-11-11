@@ -20,18 +20,22 @@ Education
 Employment History
 ======
 * Oak Ridge National Laboratory: June 2017 - Current
+  * Computational and Applied Mathematics Group
   * Post-Doctoral Research Scientist
   * Mentors: Pablo Seleson and Clayton Webster
 
 * The George Washington University: August 2015 - June 2017
+  * Department of Mathematics
   * Post-Doctoral Research Scientist
   * Mentor: Xiaofeng Ren
 
 * Oak Ridge National Laboratory: August 2015 - June 2017
+  * Computational and Applied Mathematics Group
   * ORNL ASTRO Intern
   * Mentor: Pablo Seleson
 
 * The University of Nebraska-Lincoln: August 2009 - August 2015
+  * Department of Mathematics
   * Graduate Teaching Assistant
   * Advisers: Petronela Radu and Daniel Toundykov
   
