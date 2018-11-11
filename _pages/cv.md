@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, University of Nebraska at Omaha, 2009
+* B.A. in Physics, University of Nebraska at Omaha, 2009
+* Ph.D in Mathematics, University of Nebraska-Lincoln, 2015
+  * Advisers: Petronela Radu and Daniel Toundykov
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Post-Doctoral Research Scientist: June 2017 - Current
+  * Oak Ridge National Laboratory
+  * Mentors: Pablo Seleson and Clayton Webster
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Post-Doctoral Research Scientist: August 2015 - June 2017
+  * The George Washington University
+  * Mentor: Xiaofeng Ren
+
+* ORNL ASTRO Intern: August 2015 - June 2017
+  * Oak Ridge National Laboratory
+  * Mentor: Pablo Seleson
   
+* Graduate Teaching Assistant: August 2009 - August 2015
+  * The University of Nebraska-Lincoln
+  * Advisers: Petronela Radu and Daniel Toundykov
+  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Markup: Latex, HTML
+* CAS and Numerical Packages: SageMath, Matlab, Maple, Fenics, LAMMPS, R
+* Programming: Python, C++, SQL
 
 Publications
 ======
@@ -56,4 +61,10 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Organizer for the EXTREME-QED Conference 2017 at the George Washington University
+* Jude for the JMM MAA Undergraduate Poster Session. 2016.
+* Reviewer for the <i>Rocky Mountain Journal of Mathematics<\i>.
+* Nebraska Math Day Volunteer. 2010, 2011, 2012, 2013, 2014. University of Nebraska-Lincoln.
+* Trigonometry Textbook Committee. 2013. University of Nebraska-Lincoln.
+* Math Club President. 2008-2009. University of Nebraska at Omaha.
+* Math Club Treasurer. 2007-2008. University of Nebraska at Omaha.
