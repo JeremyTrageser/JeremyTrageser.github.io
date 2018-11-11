@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics, University of Nebraska at Omaha, 2009
+  * Minor in Economics
 * B.A. in Physics, University of Nebraska at Omaha, 2009
 * Ph.D in Mathematics, University of Nebraska-Lincoln, 2015
   * Advisers: Petronela Radu and Daniel Toundykov
