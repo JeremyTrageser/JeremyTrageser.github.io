@@ -11,28 +11,28 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Mathematics, University of Nebraska-Lincoln, 2015
+  * Advisers: Petronela Radu and Daniel Toundykov
 * B.S. in Mathematics, University of Nebraska at Omaha, 2009
   * Minor in Economics
 * B.A. in Physics, University of Nebraska at Omaha, 2009
-* Ph.D in Mathematics, University of Nebraska-Lincoln, 2015
-  * Advisers: Petronela Radu and Daniel Toundykov
 
 Work experience
 ======
-* Post-Doctoral Research Scientist: June 2017 - Current
-  * Oak Ridge National Laboratory
+* Oak Ridge National Laboratory: June 2017 - Current
+  * Post-Doctoral Research Scientist
   * Mentors: Pablo Seleson and Clayton Webster
 
-* Post-Doctoral Research Scientist: August 2015 - June 2017
-  * The George Washington University
+* The George Washington University: August 2015 - June 2017
+  * Post-Doctoral Research Scientist
   * Mentor: Xiaofeng Ren
 
-* ORNL ASTRO Intern: August 2015 - June 2017
-  * Oak Ridge National Laboratory
+* Oak Ridge National Laboratory: August 2015 - June 2017
+  * ORNL ASTRO Intern
   * Mentor: Pablo Seleson
-  
-* Graduate Teaching Assistant: August 2009 - August 2015
-  * The University of Nebraska-Lincoln
+
+* The University of Nebraska-Lincoln: August 2009 - August 2015
+  * Graduate Teaching Assistant
   * Advisers: Petronela Radu and Daniel Toundykov
   
 
