@@ -17,7 +17,7 @@ Education
   * Minor in Economics
 * B.A. in Physics, University of Nebraska at Omaha, 2009
 
-Work experience
+Employment History
 ======
 * Oak Ridge National Laboratory: June 2017 - Current
   * Post-Doctoral Research Scientist
