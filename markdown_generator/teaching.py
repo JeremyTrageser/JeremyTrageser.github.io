@@ -77,6 +77,9 @@ for row, item in teaching.iterrows():
         md += 'type: "' + item.type + '"\n'
     else:
         md += 'type: "teaching"\n'
+
+    if len(str(item.type2)) > 3:
+        md += 'type2: "' + item.type2 + '"\n'
     
     md += "permalink: /teaching/" + html_filename + "\n"
     
@@ -85,6 +88,10 @@ for row, item in teaching.iterrows():
         
     if len(str(item.date)) > 3:
         md += "date: " + str(item.date) + "\n"
+    
+    if len(str(item.season)) > 3:
+        md += "season: " + str(item.season) + "\n"
+    
     
     if len(str(item.location)) > 3:
         md += 'location: "' + str(item.location) + '"\n'
